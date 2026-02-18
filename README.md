@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=janseeger&show_icons=true&theme=transparent" alt="github stats" width="45%" align="right"/>
+<img src="./profile/stats.svg" alt="GitHub Stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=janseeger&theme=transparent" width="48%" >
 
 ### Top Languages
