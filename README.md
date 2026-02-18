@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 <img src="./profile/stats.svg" alt="GitHub Stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=janseeger&theme=transparent" width="48%" >
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janseeger&layout=compact&theme=transparent)
+![Top Languages](./profile/top-langs.svg)
