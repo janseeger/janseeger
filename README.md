@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-<img src="./profile/stats.svg" alt="GitHub Stats" width="45%" align="right"/>
+<img src="https://github-stats-extended.vercel.app/api?username=janseeger" alt="GitHub Stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=janseeger&theme=transparent" width="48%" >
 
-<img src="./profile/top-langs.svg" alt="Language Stats" width="45%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=janseeger" alt="Language Stats" width="45%"/>
 
 ## My Tech Stack
 ![Kotlin](https://img.shields.io/badge/-kotlin-gray?logo=Kotlin&link=https%3A%2F%2Fkotlinlang.org)
